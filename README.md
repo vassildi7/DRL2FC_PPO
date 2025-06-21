@@ -58,6 +58,11 @@ This will install:
 ## Lisence
 This project is licensed under the MIT License. See LICENSE for details.
 
+---
+
+## Aknowledgements
+Developed as a natural continuation of the work described in the paper "DRL2FC: An Attack-Resilient Load Frequency Control Based on Deep Reinforcement Learning" submitted to Power Tech 2025 Conference https://2025.ieee-powertech.org/
+
 
 
 
